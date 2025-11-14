@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = myremote1
 ['remote "myremote"']
     url = C:\Users\abc\AppData\Local\Temp
+['remote "myremote1"']
+    url = C:\Users\abc\AppData\Local\Temp\dvc_demo
